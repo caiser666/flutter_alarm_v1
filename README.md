@@ -1,16 +1,22 @@
 # flutter_alarm_v1
 
-A new Flutter project.
+Ini adalah project pertama saya membuat Mobile App (Android) tentang Alarm/Schedule System menggunakan Flutter.
 
-## Getting Started
+## Langkah - Langkah
 
-This project is a starting point for a Flutter application.
+sebelum menjalakan nya, anda harus meng install beberapa applicaitona & librarya pendukung untuk Flutter
 
-A few resources to get you started if this is your first Flutter project:
+1. jalankan cmd pada laptop masing - masing, serta arahkan ke folder penyimpanan masing - masing.
+2. ketik git clone https://github.com/caiser666/flutter_alarm_v1.git , lalu enter. Tunggu sampai selesai
+3. ketik cd flutter_alarm_v1
+4. ketik flutter run, tunggu sampai selesai. (*pastikan sudah terhubung dengan device mobile nya)
+5. jika berhasil maka Aplikasi akan tampil.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Develompent Tools
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- code editor = Visual Studio Code & Android Studio
+- os = Windows 10
+- device = Samsung A52 & Redmin Note 8
+- laptop = Asus GL552VW
+
+Oke, mungkin itu saja. Jika anda ingin tau lebih jelas. Bisa kunjungi link: https://my-portofolio-caiser666.web.app/
