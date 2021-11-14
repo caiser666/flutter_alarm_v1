@@ -11,7 +11,7 @@ sebelum menjalakan nya, anda harus install beberapa applications & library pendu
 1. jalankan cmd pada laptop masing - masing, serta arahkan ke folder penyimpanan masing - masing.
 2. ketik git clone https://github.com/caiser666/flutter_alarm_v1.git , lalu enter. Tunggu sampai selesai
 3. ketik cd flutter_alarm_v1
-4. ketik flutter run, tunggu sampai selesai. (*pastikan sudah terhubung dengan device mobile tester)
+4. ketik flutter run, tunggu sampai selesai. (*pastikan sudah terhubung dengan device tester dan ubah device ke mode suara)
 5. jika berhasil maka Aplikasi akan tampil.
 
 ### Screenshot
