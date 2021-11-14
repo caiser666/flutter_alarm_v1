@@ -16,7 +16,8 @@ class AlarmInfoChart extends StatelessWidget {
         domainFn: (AlarmInfoModel series, _) => series.alarm,
         measureFn: (AlarmInfoModel series, _) => series.interval,
         colorFn: (AlarmInfoModel series, _) => series.barColor,
-        labelAccessorFn: (AlarmInfoModel series, _) => "${(series.interval * 0.001).toStringAsFixed(1)} s"
+        labelAccessorFn: (AlarmInfoModel series, _) =>
+            "${(series.interval * 0.001).toStringAsFixed(1)} s",
       )
     ];
 
@@ -30,7 +31,7 @@ class AlarmInfoChart extends StatelessWidget {
       ],
       barRendererDecorator: new charts.BarLabelDecorator<String>(),
       domainAxis: new charts.OrdinalAxisSpec(
-        viewport: new charts.OrdinalViewport(data[data.length-1].alarm, 8),
+        viewport: new charts.OrdinalViewport(data[data.length - 1].alarm, 8),
         renderSpec: charts.SmallTickRendererSpec(
           // Rotation Here,
           minimumPaddingBetweenLabelsPx: 0,
@@ -47,12 +48,16 @@ class AlarmInfoChart extends StatelessWidget {
         ),
       ),
       primaryMeasureAxis: new charts.NumericAxisSpec(
+        // viewport: new charts.NumericExtents(0.0, data),
+        tickProviderSpec: new charts.BasicNumericTickProviderSpec(
+          desiredTickCount: 8,
+        ),
         renderSpec: new charts.GridlineRendererSpec(
           labelAnchor: charts.TickLabelAnchor.before,
           labelJustification: charts.TickLabelJustification.outside,
+          
         ),
       ),
     );
   }
 }
-
