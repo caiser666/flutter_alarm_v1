@@ -16,8 +16,8 @@ sebelum menjalakan nya, anda harus install beberapa applications & library pendu
 
 ### Screenshot
 
-1. inital (analog clock Hour) 2. analog clock Minute
-<img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/1.jpg" width=30%> <img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/2.jpg" width=30%>
+1. inital (analog clock Hour) | 2. analog clock Minute 
+<img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/1.jpg" width=30%> | <img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/2.jpg" width=30%>
 
 3. set alarm successfully
 <img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/3.jpg" width=30%>
