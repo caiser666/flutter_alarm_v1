@@ -16,6 +16,7 @@ class AlarmInfoChart extends StatelessWidget {
         domainFn: (AlarmInfoModel series, _) => series.alarm,
         measureFn: (AlarmInfoModel series, _) => series.interval,
         colorFn: (AlarmInfoModel series, _) => series.barColor,
+        labelAccessorFn: (AlarmInfoModel series, _) => "${(series.interval * 0.001).toStringAsFixed(1)} s"
       )
     ];
 
@@ -27,8 +28,9 @@ class AlarmInfoChart extends StatelessWidget {
         new charts.SlidingViewport(),
         new charts.PanAndZoomBehavior(),
       ],
+      barRendererDecorator: new charts.BarLabelDecorator<String>(),
       domainAxis: new charts.OrdinalAxisSpec(
-        viewport: new charts.OrdinalViewport(data[data.length-1].alarm, 10),
+        viewport: new charts.OrdinalViewport(data[data.length-1].alarm, 8),
         renderSpec: charts.SmallTickRendererSpec(
           // Rotation Here,
           minimumPaddingBetweenLabelsPx: 0,
