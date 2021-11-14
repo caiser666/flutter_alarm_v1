@@ -22,8 +22,8 @@ sebelum menjalakan nya, anda harus install beberapa applications & library pendu
      <td>2. analog clock Minute</td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/1.jpg" width=80%></td>
-    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/2.jpg" width=80%></td>
+    <td valign="center"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/1.jpg" width="320"></td>
+    <td valign="center"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/2.jpg" width="320"></td>
   </tr>
 </table>
 
@@ -33,19 +33,17 @@ sebelum menjalakan nya, anda harus install beberapa applications & library pendu
      <td>4. notification</td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/3.jpg" width=80%></td>
-    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/4.jpg" width=80%></td>
+    <td valign="center"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/3.jpg" width="320"></td>
+    <td valign="center"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/4.jpg" width="320"></td>
   </tr>
 </table>
 
 <table>
   <tr>
      <td>5. alarm info (with charts bar)</td>
-     <td></td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/5.jpg" width=80%></td>
-    <td></td>
+    <td valign="center"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/5.jpg" width="320"></td>
   </tr>
 </table>
 
