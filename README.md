@@ -45,7 +45,7 @@ sebelum menjalakan nya, anda harus install beberapa applications & library pendu
   </tr>
   <tr>
     <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/5.jpg" width=80%></td>
-    <td>/<td>
+    <td></td>
   </tr>
 </table>
 
