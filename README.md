@@ -19,25 +19,33 @@ sebelum menjalakan nya, anda harus install beberapa applications & library pendu
 <table>
   <tr>
      <td>1. inital (analog clock Hour)</td>
-     <td>2. analog clock Minute </td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>2. analog clock Minute</td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/1.jpg" width=30%></td>
-    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/2.jpg" width=30%></td>
+    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/1.jpg" width=80%></td>
+    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/2.jpg" width=80%></td>
   </tr>
 </table>
 
+<table>
+  <tr>
+     <td>3. set alarm successfully</td>
+     <td>4. notification</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/3.jpg" width=80%></td>
+    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/4.jpg" width=80%></td>
+  </tr>
+</table>
 
-
-3. set alarm successfully
-<img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/3.jpg" width=30%>
-
-4. notification
-<img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/4.jpg" width=30%>
-
-5. alarm info (with charts bar)
-<img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/5.jpg" width=30%>
+<table>
+  <tr>
+     <td>5. alarm info (with charts bar)</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://github.com/caiser666/flutter_alarm_v1/blob/main/assets/screenshots/5.jpg" width=80%></td>
+  </tr>
+</table>
 
 ## Develompent Tools
 
