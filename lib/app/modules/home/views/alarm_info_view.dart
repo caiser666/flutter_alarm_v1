@@ -36,7 +36,7 @@ class AlarmInfoView extends GetView<HomeController> {
                       constraints: BoxConstraints(
                         minHeight: 196,
                         maxWidth: Get.width,
-                        maxHeight: 320,
+                        maxHeight: 32,
                       ),
                       width: Get.width,
                       child: controller.myAlarmInfoList.length > 0
